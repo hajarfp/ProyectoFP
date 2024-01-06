@@ -90,7 +90,7 @@
           ;font-weight: lighter;
           border-radius: 100px; padding: 20px;text-align: center;
           border: solid black;
-          float: left;margin: 5px;
+          float:left;margin: 5px;
           }
           .tols{background-color: grey;
             color: azure;}
